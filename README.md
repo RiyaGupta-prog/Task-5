@@ -1,14 +1,6 @@
 # ❤️ Heart Disease Prediction using Decision Tree and Random Forest
 
-This project uses a **Decision Tree** and a **Random Forest Classifier** to predict the presence of heart disease using the Heart Disease dataset.
-
-## 📂 Dataset
-
-We use the public heart disease dataset from:  
-https://raw.githubusercontent.com/anshupandey/Machine-Learning-Using-Python/master/Datasets/heart.csv
-
-Each row represents a patient, and the `target` column indicates the presence (1) or absence (0) of heart disease.
-
+This project uses a **Decision Tree** and a **Random Forest Classifier** to predict the presence of heart disease using the Heart Disease dataset
 ---
 
 ## 📌 Objectives
